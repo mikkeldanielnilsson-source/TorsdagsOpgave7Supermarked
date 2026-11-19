@@ -1,7 +1,7 @@
 mini1009@stud.ek.dk
 Mikkel Daniel Nilsson
 
-Havde okay svært ved opgaven. Så skrev så meget jeg kunne fx Vare klassen vare lige til og loaddata(FileIO) var også okay. Dog haltet jeg
+Havde okay svært ved opgaven. Så skrev så meget jeg kunne fx Vare klassen, var lige til og loaddata(FileIO) var også okay. Dog haltet jeg
 med det mere at tænke i kodebaner. Kan også mærke at jeg føler jeg forstår at skrive kode men ikke at tænke i kode, hvis det giver nogen 
 mening. Derfor skal det også siges at AI har været inde over opgaven som et hjælpe middel til at komme med løsning, hvor jeg har spurgt hvorfor?
 Føler jeg er blevet lidt klogere end da jeg startet men kunne mærke jeg ikke kom nogen vegne efter 5 timer så der valgte jeg at heller bruge
